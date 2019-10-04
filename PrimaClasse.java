@@ -3,7 +3,7 @@ package com.company;
 
 public class PrimaClasse extends TerzaClasse { //estendo la classe astratta nella Superclasse
 
-public int num = 12;
+public int num = 33;
 private int moneta; // non può essere richiamata fuori dalla classe
 protected int contante = 33;
 
