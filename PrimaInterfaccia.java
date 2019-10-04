@@ -6,6 +6,6 @@ public interface PrimaInterfaccia {//non si può istanziare, come la classe astr
         System.out.println("DO RE MI FA SOL LA SI DO");
 
     }
-    public String primario = "Bokov";
+    public String primario = "Castrizzi";
 
 }
