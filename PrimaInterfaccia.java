@@ -9,3 +9,7 @@ public interface PrimaInterfaccia {//non si può istanziare, come la classe astr
     public String primario = "Veronesi";
 
 }
+
+
+
+
