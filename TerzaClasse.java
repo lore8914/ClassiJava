@@ -6,7 +6,7 @@ public abstract class TerzaClasse implements PrimaInterfaccia{ // non è possibi
 
 public int a;// posso ereditarla in tutte le classi
 protected int b;//posso ereditarla in tutte le classi
-private int c;
+private int u;
 
 public void stampa(){
     System.out.println("Ecco un messaggio stampato");
